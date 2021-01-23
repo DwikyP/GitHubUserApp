@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+    <string name="display_username">Username</string>
+    <string name="display_company">User Company</string>
+    <string name="detail_username">detailUsername</string>
+    <string name="number_followers">0</string>
+    <string name="followers">followers</string>
+    <string name="number_following">0</string>
+    <string name="following">following</string>
+    <string name="detail_name">myName</string>
+    <string name="location">Location</string>
+    <string name="detail_location">myLocation</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="detail_company">myCompany</string>
+    <string name="repository">Repository</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="detail_repository">myRepository</string>
+    <string name="favorite">favorite</string>
+    <string name="favorite_user">Favorite Users</string>
+    <string name="search_github_user">Search Github User</string>
+    <string name="detail_user">Detail User</string>
+    <string name="setting">Setting</string>
+    <string name="alarm">alarm</string>
+    <string name="reminder">Reminder at 9:00 AM</string>
+</resources>
